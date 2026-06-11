@@ -108,9 +108,7 @@ Lightweight tool for validating core `SELECT` query structure — catches missin
 
 <div align="center">
 
-[![LeetCode](https://leetcard.jacoblin.cool/sakshi_mahajan27?theme=dark&font=Fira+Code&ext=activity)](https://leetcode.com/u/sakshi_mahajan27)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-mahajan27&layout=compact&theme=dark&langs_count=6&hide_border=true)](https://github.com/sakshi-mahajan27)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sakshi_mahajan27?theme=dark&font=Fira+Code&ext=contest)](https://leetcode.com/u/sakshi_mahajan27)
 
 </div>
 
@@ -120,6 +118,6 @@ Lightweight tool for validating core `SELECT` query structure — catches missin
 
 *"Build things that work, not just things that demo."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=sakshi-mahajan27&style=flat-square&color=555)
+![Profile Views](https://komarev.com/ghpvc/?username=sakshi-mahajan27&style=flat-square&color=24292e)
 
 </div>
