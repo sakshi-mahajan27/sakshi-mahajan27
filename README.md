@@ -20,7 +20,7 @@ I'm a Full Stack Developer and MCA student at PCCOE Pune, focused on building co
 
 My work spans Django-based compliance platforms with async task queues, Node.js rental marketplaces with real-world map integrations, and large-scale government data analysis pipelines. I care about clean architecture, maintainable code, and systems that actually work under real conditions.
 
-In practice, that means a role-based NGO finance platform with Celery-powered background processing and immutable audit trails, a full-stack property platform deployed to production with Mapbox and Cloudinary, and a two-notebook analysis pipeline over 1M+ anonymized Aadhaar enrollment records submitted to a national-level hackathon. AIR 1 in MAH MCA CET 2025 with a 99.99 percentile. B.Sc. CS CGPA 9.41, MCA SGPA 9.2. Grades reflect discipline; the projects reflect intent.
+In practice, that means a role-based NGO finance platform with Celery-powered background processing and immutable audit trails, a full-stack property platform deployed to production with Mapbox and Cloudinary, and a two-notebook analysis pipeline over 1M+ anonymized Aadhaar enrollment records submitted to a national-level hackathon. AIR 1 in MAH MCA CET 2025 with a 99.99 percentile. B.Sc. CS CGPA 9.41, MCA SGPA 9.6. Grades reflect discipline; the projects reflect intent.
 
 ---
 
@@ -59,9 +59,9 @@ Lightweight tool for validating core `SELECT` query structure — catches missin
 | Competition / Recognition | Result |
 |---|---|
 | MAH MCA CET 2025 | **All India Rank 1 · 99.99 Percentile** |
-| LeetCode | **440+ problems solved** · Peak contest rating **1585** |
+| LeetCode | **460+ problems solved** · Peak contest rating **1623** |
 | HackerRank | **5★ Gold** — Problem Solving & Java · **4★** — Python & SQL |
-| Academic Standing | B.Sc. CS CGPA **9.41** · MCA SGPA **9.2** |
+| Academic Standing | B.Sc. CS CGPA **9.41** · MCA SGPA **9.6** |
 | PCCOE Insperia 2026 | Volunteer · *Decode to Code* team, flagship MCA technical event |
 | Vedic Mathematics | Level I Certification |
 
@@ -96,6 +96,7 @@ Lightweight tool for validating core `SELECT` query structure — catches missin
 
 | Certificate | Platform | Year |
 |---|---|---|
+| Data Science Essentials with Python | Cisco | 2026 |
 | Java (Basic) | HackerRank | 2026 |
 | Python Automation & Data Science Bootcamp | Udemy | 2025 |
 | MySQL Bootcamp | Udemy | 2025 |
