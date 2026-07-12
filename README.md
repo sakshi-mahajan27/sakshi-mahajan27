@@ -2,7 +2,7 @@
 
 # Sakshi Mahajan
 
-**Full Stack Development · AI/ML · MCA, PCCOE Pune**
+**Full Stack Development · MCA, PCCOE Pune**
 
 [![Email](https://img.shields.io/badge/Email-sakshimahajan270604%40gmail.com-0a0a0a?style=flat-square&logo=gmail&logoColor=white)](mailto:sakshimahajan270604@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sakshi--mahajan--sm27-0a0a0a?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/sakshi-mahajan-sm27)
@@ -54,26 +54,13 @@ Lightweight tool for validating core `SELECT` query structure — catches missin
 
 ---
 
-## Achievements
-
-| Competition / Recognition | Result |
-|---|---|
-| MAH MCA CET 2025 | **All India Rank 1 · 99.99 Percentile** |
-| LeetCode | **460+ problems solved** · Peak contest rating **1623** |
-| HackerRank | **5★ Gold** — Problem Solving & Java · **4★** — Python & SQL |
-| Academic Standing | B.Sc. CS CGPA **9.41** · MCA SGPA **9.6** |
-| PCCOE Insperia 2026 | Volunteer · *Decode to Code* team, flagship MCA technical event |
-| Vedic Mathematics | Level I Certification |
-
----
-
 ## Tech Stack
 
 **Languages**
 `Python` `Java` `JavaScript` `SQL`
 
 **Frontend**
-`HTML5` `CSS3` `Bootstrap` `EJS` `React` `Next.js` `TypeScript` `Tailwind CSS`
+`HTML5` `CSS3` `Bootstrap` `EJS`
 
 **Backend & Frameworks**
 `Django (MVT)` `Node.js` `Express.js` `Celery` `REST APIs`
@@ -87,8 +74,18 @@ Lightweight tool for validating core `SELECT` query structure — catches missin
 **Cloud, DevOps & Tools**
 `AWS (Fundamentals)` `Cloudinary` `Redis` `Docker` `Git` `GitHub` `Postman`
 
-**Currently Learning**
-`LangChain` `RAG Pipelines` `LLM Integration` `Kubernetes` `CI/CD`
+---
+
+## Achievements
+
+| Competition / Recognition | Result |
+|---|---|
+| MAH MCA CET 2025 | **All India Rank 1 · 99.99 Percentile** |
+| LeetCode | **460+ problems solved** · Peak contest rating **1623** |
+| HackerRank | **5★ Gold** — Problem Solving & Java · **4★** — Python & SQL |
+| Academic Standing | B.Sc. CS CGPA **9.41** · MCA SGPA **9.6** |
+| PCCOE Insperia 2026 | Volunteer · *Decode to Code* team, flagship MCA technical event |
+| Vedic Mathematics | Level I Certification |
 
 ---
 
@@ -116,8 +113,6 @@ Lightweight tool for validating core `SELECT` query structure — catches missin
 ---
 
 <div align="center">
-
-*"Build things that work, not just things that demo."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sakshi-mahajan27&style=flat-square&color=24292e)
 
